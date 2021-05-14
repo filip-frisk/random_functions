@@ -5,7 +5,7 @@ tmp = Stack();
 
 for i = 1:1:10 
     tmp = tmp.push(i);
-1end 
+end 
 
 tmp = vector(tmp);
 
