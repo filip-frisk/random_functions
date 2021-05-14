@@ -1,13 +1,13 @@
 %A non-cringeworthy for-loop for MatLab
 import java.util.*;
 
-tmp = Stack();
+tmp_1 = Stack();
 
 for i = 1:1:10 
-    tmp = tmp.push(i);
+    tmp_2 = tmp_1.push(i);
 end 
 
-tmp = vector(tmp);
+tmp = vector(tmp_2);
 
 %Vectorize a stack
 function vector = vector(v)
