@@ -1,4 +1,4 @@
-%A non-cringeworthy for-loop for TrashLab
+%A non-cringeworthy for-loop for MatLab
 import java.util.*;
 
 tmp = Stack();
